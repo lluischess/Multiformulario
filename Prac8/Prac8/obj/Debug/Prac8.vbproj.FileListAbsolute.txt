@@ -1,0 +1,16 @@
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\bin\Debug\Prac8.exe.config
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\bin\Debug\Prac8.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\bin\Debug\Prac8.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\bin\Debug\Prac8.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.vbprojResolveAssemblyReference.cache
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.prac5.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.prac4.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.prac3.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.prac2.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.FormInicial.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.Resources.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.vbproj.GenerateResource.Cache
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\Prac8\Prac8\obj\Debug\Prac8.pr1.resources
